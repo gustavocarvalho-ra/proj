@@ -1,9 +1,9 @@
-export interface products = {
+export interface produc {
   name: string;
   price: number;
   photo: string;
   type: string;
-  id: number;
+  id: string;
   ras: number;
   quantity: number;
 }

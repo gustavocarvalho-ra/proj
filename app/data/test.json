@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Calça Cargo",
+    "price": 190.99,
+    "photo": "/assets/calcaCargoLaco.jpeg",
+    "type": "calça",
+    "id": "1",
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger",
+    "price": 180.59,
+    "photo": "/assets/calcaJogger.jpeg",
+    "type": "calça",
+    "id": "2",
+    "des": 0.25
+  }
+]
