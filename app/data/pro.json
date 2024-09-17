@@ -1,0 +1,691 @@
+[
+  {
+    "name": "Calça Cargo",
+    "price": 190.99,
+    "photo": "/assets/calcaCargoLaco.jpeg",
+    "type": "calça",
+    "id": 1,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger",
+    "price": 180.59,
+    "photo": "/assets/calcaJogger.jpeg",
+    "type": "calça",
+    "id": 2,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger Com Corrente",
+    "price": 160.19,
+    "photo": "/assets/calcaJoggerCorrente.jpeg",
+    "type": "calça",
+    "id": 3,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger Refletiva",
+    "price": 190.99,
+    "photo": "/assets/calcaJoggerRefletiva.jpeg",
+    "type": "calça",
+    "id": 4,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger Be Better",
+    "price": 170.19,
+    "photo": "/assets/calcaJoggerBeBetter.jpeg",
+    "type": "calça",
+    "id": 5,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger Better Tomorrow",
+    "price": 200.79,
+    "photo": "/assets/calcaJoggerBetterTomorrow.jpeg",
+    "type": "calça",
+    "id": 6,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger Urbano",
+    "price": 210.99,
+    "photo": "/assets/calcaJoggerUrbano.jpeg",
+    "type": "calça",
+    "id": 7,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Jogger As",
+    "price": 200.49,
+    "photo": "/assets/calcaJoggerAs.jpeg",
+    "type": "calça",
+    "id": 8,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Cargo Simples",
+    "price": 150.39,
+    "photo": "/assets/calcaCargoSimples.jpeg",
+    "type": "calça",
+    "id": 9,
+    "des": 0.25
+  }
+  ,
+  {
+    "name": "Calça Cargo Hocks",
+    "price": 180.39,
+    "photo": "/assets/calcaCargoHocks.jpeg",
+    "type": "calça",
+    "id": 10,
+    "des": 0.25
+  },
+  {
+    "name": "Calça Cargo Camuflada",
+    "price": 200.99,
+    "photo": "/assets/calcaCargoCamuflada.jpeg",
+    "type": "calça",
+    "id": 11,
+    "des": 0.25
+  },
+  {
+    "name": "X",
+    "price": 280.49,
+    "photo": "/assets/jaquetaX.jpeg",
+    "type": "jaqueta",
+    "id": 12,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta BEEO",
+    "price": 320.59,
+    "photo": "/assets/jaquetaVerde.jpeg",
+    "type": "jaqueta",
+    "id": 13,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta a Prova D'água Preta",
+    "price": 290.99,
+    "photo": "/assets/jaquetaAProvaDAgua.jpg",
+    "type": "jaqueta",
+    "id": 14,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta HSBR",
+    "price": 300.79,
+    "photo": "/assets/jaquetaHSBR.jpg",
+    "type": "jaqueta",
+    "id": 15,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta KACE Branca",
+    "price": 270.59,
+    "photo": "/assets/jaquetaKACE.png",
+    "type": "jaqueta",
+    "id": 16,
+    "des": 0.25
+  },
+  {
+    "name": "Corta Vento Preta Techwaer",
+    "price": 320.79,
+    "photo": "/assets/jaquetaPretaTechwear.jpg",
+    "type": "jaqueta",
+    "id": 17,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta Punk techwaer",
+    "price": 300.29,
+    "photo": "/assets/jaquetaPunk.jpeg",
+    "type": "jaqueta",
+    "id": 18,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta HOODIE",
+    "price": 340.89,
+    "photo": "/assets/jaquetaHOODIE.jpeg",
+    "type": "jaqueta",
+    "id": 19,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta XGXF",
+    "price": 320.49,
+    "photo": "/assets/jaquetaXGXF.jpeg",
+    "type": "jaqueta",
+    "id": 20,
+    "des": 0.25
+  },
+  {
+    "name": "jaqueta RAD",
+    "price": 200.99,
+    "photo": "/assets/jaquetaRad.jpeg",
+    "type": "jaqueta",
+    "id": 21,
+    "des": 0.25
+  },
+  {
+    "name": "jaqueta Hyper Zero",
+    "price": 380.49,
+    "photo": "/assets/jaquetaHyperZero.jpeg",
+    "type": "jaqueta",
+    "id": 22,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta HOODIE Grail",
+    "price": 290.99,
+    "photo": "/assets/jaquetaHOODIEGrail.jpeg",
+    "type": "jaqueta",
+    "id": 23,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta Runs",
+    "price": 320.79,
+    "photo": "/assets/jaquetaRuns.jpeg",
+    "type": "jaqueta",
+    "id": 24,
+    "des": 0.25
+  },
+  {
+    "name": "Jaqueta Primodi",
+    "price": 280.99,
+    "photo": "/assets/jaquetaPrimodi.jpeg",
+    "type": "jaqueta",
+    "id": 25,
+    "des": 0.25
+  },
+  {
+    "name": "jaqueta ROW",
+    "price": 220.99,
+    "photo": "/assets/jaquetaROW.jpg",
+    "type": "jaqueta",
+    "id": 26,
+    "des": 0.25
+  },
+  {
+    "name": "jaqueta Demon",
+    "price": 200.29,
+    "photo": "/assets/jaquetaDemon.jpg",
+    "type": "jaqueta",
+    "id": 28,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa AK",
+    "price": 76.89,
+    "photo": "/assets/camisaAk.jpeg",
+    "type": "camisa",
+    "id": 29,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa Save",
+    "price": 94.09,
+    "photo": "/assets/camisaSave.jpeg",
+    "type": "camisa",
+    "id": 30,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa BC",
+    "price": 103.49,
+    "photo": "/assets/camisaBC.jpeg",
+    "type": "camisa",
+    "id": 31,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa Butter",
+    "price": 120.39,
+    "photo": "/assets/camisaButter.jpeg",
+    "type": "camisa",
+    "id": 32,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa DF",
+    "price": 95.23,
+    "photo": "/assets/camisaDF.jpeg",
+    "type": "camisa",
+    "id": 33,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa Dream",
+    "price": 86.28,
+    "photo": "/assets/camisaDream.jpeg",
+    "type": "camisa",
+    "id": 34,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa Equilibrium",
+    "price": 104.98,
+    "photo": "/assets/camisaEquilibrium.jpeg",
+    "type": "camisa",
+    "id": 35,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa Faceless",
+    "price": 105.42,
+    "photo": "/assets/camisaFaceless.jpeg",
+    "type": "camisa",
+    "id": 36,
+    "des": 0.25
+  },
+  {
+    "name": "camisa GrafiK",
+    "price": 98.59,
+    "photo": "/assets/camisaGrafik.jpeg",
+    "type": "camisa",
+    "id": 37,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa YinD",
+    "price": 94.28,
+    "photo": "/assets/camisaYinD.jpeg",
+    "type": "camisa",
+    "id": 38,
+    "des": 0.25
+  },
+  {
+    "name": "Camisa Zero Bug",
+    "price": 104.33,
+    "photo": "/assets/camisaZeroBug.jpeg",
+    "type": "camisa",
+    "id": 39,
+    "des": 0.25
+  },
+  {
+    "name": "Tênis 006",
+    "price": 187.39,
+    "photo": "/assets/tenis006.jpeg",
+    "type": "tenis",
+    "id": 40,
+    "des": 0.25
+  },
+  {
+    "name": "Tênis BL",
+    "price": 268.65,
+    "photo": "/assets/tenisBl.jpeg",
+    "type": "tenis",
+    "id": 41,
+    "des": 0.25
+  },
+  {
+    "name": "Tênis EANF",
+    "price": 206.99,
+    "photo": "/assets/tenisEANF.jpeg",
+    "type": "tenis",
+    "id": 42,
+    "des": 0.25
+  },
+  {
+    "name": "Tênis FS",
+    "price": 198.54,
+    "photo": "/assets/tenisForSkate.jpeg",
+    "type": "tenis",
+    "id": 43,
+    "des": 0.25
+  },
+  {
+    "name": "Tênis White Off.jpeg",
+    "price": 248.51,
+    "photo": "/assets/tenisWhiteOff.jpeg",
+    "type": "tenis",
+    "id": 44,
+    "des": 0.25
+  },
+  {
+    "name": "Tênis HaXa",
+    "price": 216.35,
+    "photo": "/assets/tenisHaXa.jpeg",
+    "type": "tenis",
+    "id": 45,
+    "des": 0.25
+  },
+  {
+    "name": "Tênis Of Nest",
+    "price": 231.84,
+    "photo": "/assets/tenisOfNest.jpeg",
+    "type": "tenis",
+    "id": 46,
+    "des": 0.25
+  },
+  {
+    "name": "Boné Street WR",
+    "price": 120.54,
+    "photo": "/assets/boneStreetWR.jpeg",
+    "type": "bone",
+    "id": 47,
+    "des": 0.25
+  },
+  {
+    "name": "Bucket Cat",
+    "price": 162.84,
+    "photo": "/assets/bucketCat.jpeg",
+    "type": "bone",
+    "id": 48,
+    "des": 0.25
+  },
+  {
+    "name": "Boné Face",
+    "price": 97.26,
+    "photo": "/assets/boneFace.jpeg",
+    "type": "bone",
+    "id": 49,
+    "des": 0.25
+  },
+  {
+    "name": "Boné Demon",
+    "price": 142.23,
+    "photo": "/assets/boneDemon.jpeg",
+    "type": "bone",
+    "id": 50,
+    "des": 0.25
+  },
+  {
+    "name": "Bucket SF",
+    "price": 113.58,
+    "photo": "/assets/bucketSF.jpeg",
+    "type": "bone",
+    "id": 51,
+    "des": 0.25
+  },
+  {
+    "name": "Bucket Ocean",
+    "price": 129.99,
+    "photo": "/assets/bucketOcean.jpeg",
+    "type": "bone",
+    "id": 52,
+    "des": 0.25
+  },
+  {
+    "name": "Bucket Dragon",
+    "price": 123.44,
+    "photo": "/assets/bucketDragon.jpeg",
+    "type": "bone",
+    "id": 53,
+    "des": 0.25
+  },
+  {
+    "name": "Boné AR",
+    "price": 130.84,
+    "photo": "/assets/boneAR.jpeg",
+    "type": "bone",
+    "id": 54,
+    "des": 0.25
+  },
+  {
+    "name": "Meias Butterfly Sk",
+    "price": 30.49,
+    "photo": "/assets/meiasButterflySk.jpeg",
+    "type": "meia",
+    "id": 55,
+    "des": 0.25
+  },
+  {
+    "name": "Meias of Parth",
+    "price": 32.52,
+    "photo": "/assets/meiasParth.jpeg",
+    "type": "meia",
+    "id": 56,
+    "des": 0.25
+  },
+  {
+    "name": "Meias Error",
+    "price": 28.89,
+    "photo": "/assets/meiasError.jpeg",
+    "type": "meia",
+    "id": 57,
+    "des": 0.25
+  },
+  {
+    "name": "Meias Sk",
+    "price": 26.99,
+    "photo": "/assets/meiasSk.jpeg",
+    "type": "meia",
+    "id": 58,
+    "des": 0.25
+  },
+  {
+    "name": "Meias Star",
+    "price": 31.28,
+    "photo": "/assets/meiasStar.jpeg",
+    "type": "meia",
+    "id": 59,
+    "des": 0.25
+  },
+  {
+    "name": "Meias Smile",
+    "price": 32.85,
+    "photo": "/assets/meiasSmileD.jpeg",
+    "type": "meia",
+    "id": 60,
+    "des": 0.25
+  },
+  {
+    "name": "Meias Dragon",
+    "price": 27.65,
+    "photo": "/assets/meiasDragon.jpeg",
+    "type": "meia",
+    "id": 61,
+    "des": 0.25
+  },
+  {
+    "name": "Meias X)",
+    "price": 33.99,
+    "photo": "/assets/meiasX).jpeg",
+    "type": "meia",
+    "id": 62,
+    "des": 0.25
+  },
+  {
+    "name": "Meias ZapW",
+    "price": 26.20,
+    "photo": "/assets/meiasZapW.jpeg",
+    "type": "meia",
+    "id": 63,
+    "des": 0.25
+  },
+  {
+    "name": "Meias fire Ptt",
+    "price": 33.99,
+    "photo": "/assets/meiasFirePtt.jpeg",
+    "type": "meia",
+    "id": 64,
+    "des": 0.25
+  },
+  {
+    "name": "Meias Visit A",
+    "price": 25.99,
+    "photo": "/assets/meiasVisitA.jpeg",
+    "type": "meia",
+    "id": 65,
+    "des": 0.25
+  },
+  {
+    "name": "Bag SM-57",
+    "price": 98.99,
+    "photo": "/assets/bagSM57.jpeg",
+    "type": "bag",
+    "id": 66,
+    "des": 0.25
+  },
+  {
+    "name": "Bag Techwear",
+    "price": 129.59,
+    "photo": "/assets/bagTechwear.jpeg",
+    "type": "bag",
+    "id": 67,
+    "des": 0.25
+  },
+  {
+    "name": "Bag Crossbody Y",
+    "price": 109.29,
+    "photo": "/assets/bagCrossbodyY.jpeg",
+    "type": "bag",
+    "id": 68,
+    "des": 0.25
+  },
+  {
+    "name": "Bag Sun BG",
+    "price": 137.99,
+    "photo": "/assets/bagSunBG.jpeg",
+    "type": "bag",
+    "id": 69,
+    "des": 0.25
+  },
+  {
+    "name": "Bag Rucksack",
+    "price": 97.37,
+    "photo": "/assets/bagRucksack.jpeg",
+    "type": "bag",
+    "id": 70,
+    "des": 0.25
+  },
+  {
+    "name": "Bag Hang Loose Un",
+    "price": 111.99,
+    "photo": "/assets/bagHangLooseUn.jpeg",
+    "type": "bag",
+    "id": 71,
+    "des": 0.25
+  },
+  {
+    "name": "Bag Rudder Verde",
+    "price": 99.99,
+    "photo": "/assets/bagRudderVerde.jpeg",
+    "type": "bag",
+    "id": 72,
+    "des": 0.25
+  },
+  {
+    "name": "Bag Impermeavel HAO",
+    "price": 138.49,
+    "photo": "/assets/bagImpermeavelHAO.jpeg",
+    "type": "bag",
+    "id": 73,
+    "des": 0.25
+  },
+  {
+    "name": "Mochila Cosmit S",
+    "price": 248.99,
+    "photo": "/assets/mochilaCosmitS.jpeg",
+    "type": "mochila",
+    "id": 74,
+    "des": 0.25
+  },
+  {
+    "name": "Mochila SD-v1",
+    "price": 268.54,
+    "photo": "/assets/mochilaSDv1.PNG",
+    "type": "mochila",
+    "id": 75,
+    "des": 0.25
+  },
+  {
+    "name": "Mochila Sumally Y3",
+    "price": 247.49,
+    "photo": "/assets/mochilaSumallyY3.jpeg",
+    "type": "mochila",
+    "id": 76,
+    "des": 0.25
+  },
+  {
+    "name": "Mochila T60",
+    "price": 288.99,
+    "photo": "/assets/mochilaT60.jpeg",
+    "type": "mochila",
+    "id": 77,
+    "des": 0.25
+  },
+  {
+    "name": "Mochila Tokyo R",
+    "price": 215.64,
+    "photo": "/assets/mochilaTokyoR.jpeg",
+    "type": "mochila",
+    "id": 78,
+    "des": 0.25
+  },
+  {
+    "name": "Mochila RaS",
+    "price": 168.99,
+    "photo": "/assets/mochilaRaS.jpeg",
+    "type": "mochila",
+    "id": 79,
+    "des": 0.25
+  },
+  {
+    "name": "Óculos Cyber",
+    "price": 67.99,
+    "photo": "/assets/oculosCyber.jpeg",
+    "type": "acessorio",
+    "id": 80,
+    "des": 0.25
+  },
+  {
+    "name": "Colar Remnant Tech",
+    "price": 42.64,
+    "photo": "/assets/colarRemnantTech.jpeg",
+    "type": "acessorio",
+    "id": 81,
+    "des": 0.25
+  },
+  {
+    "name": "Máscara DG Led",
+    "price": 95.94,
+    "photo": "/assets/mascaraDGLed.jpeg",
+    "type": "acessorio",
+    "id": 82,
+    "des": 0.25
+  },
+  {
+    "name": "Máscara X",
+    "price": 99.86,
+    "photo": "/assets/mascaraX.jpeg",
+    "type": "acessorio",
+    "id": 83,
+    "des": 0.25
+  },
+  {
+    "name": "Óculos Led",
+    "price": 76.25,
+    "photo": "/assets/oculosLed.jpeg",
+    "type": "acessorio",
+    "id": 84,
+    "des": 0.25
+  },
+  {
+    "name": "Pulsera Wolf",
+    "price": 37.99,
+    "photo": "/assets/pulseraWolf.jpeg",
+    "type": "acessorio",
+    "id": 85,
+    "des": 0.25
+  },
+  {
+    "name": "Tiara Demon",
+    "price": 86.99,
+    "photo": "/assets/tiaraDemon.jpeg",
+    "type": "acessorio",
+    "id": 86,
+    "des": 0.25
+  }
+]
