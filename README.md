@@ -1,3 +1,11 @@
+# Clone para test 
+
+
+<hr/>
+<hr/>
+<hr/>
+<hr/>
+
 # Projeto destinado a uma loja de roupas fictícia chamada "Street Tech"
 
 ### Com um Banco de Dados local e utilizando métodos como .map para percorrer o JSON, produzi este teste para uma loja de roupas com produtos destinados ao público com estilo tech.
