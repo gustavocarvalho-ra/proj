@@ -1,9 +1,9 @@
 export interface produc {
   name: string;
-  price: number;
+  price: string;
   photo: string;
   type: string;
   id: string;
-  ras: number;
-  quantity: number;
+  ras: string;
+  quantity: string;
 }
