@@ -6,6 +6,8 @@ import { produc } from "../../types/prod"
 import pro from "../../data/pro.json"
 import { Main } from "../styles";
 
+import Image from 'next/image';
+
 
 interface Props {
   produto: produc | null;
@@ -30,10 +32,13 @@ const ProdutoDetalhes: React.FC<Props> = ({ params }) => {
     <>
       <Header />
       <Main>
-        <h1>{produto.name}</h1>
-        <h1>{produto.price}</h1>
-        <h1>{produto.id}</h1>
-        <h1>{produto.type}</h1>
+        <div className="deta">
+          <Image src={produto.photo} alt="Imagem do Produto"/>
+          <h1>{produto.name}</h1>
+          <h1>{produto.price}</h1>
+          <h1>{produto.id}</h1>
+          <h1>{produto.type}</h1>
+        </div>
       </Main>
     </>
   );
