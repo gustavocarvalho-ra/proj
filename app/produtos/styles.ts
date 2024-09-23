@@ -8,10 +8,11 @@ export const Main = styled.div `
   .deta {
 
 
-    Image {
+    img {
 
       &:hover {
         cursor: crosshair;
+        zoom: 150%;
       }
     }
   }
