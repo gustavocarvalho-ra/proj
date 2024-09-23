@@ -1,12 +1,8 @@
 "use client"
 
-// import { GetStaticProps, GetStaticPaths } from "next";
-// import { useRouter } from "next/router";
-import { useRouter } from "next/navigation";
 import Header from "@/app/components/Header";
 
 import { produc } from "../../types/prod"
-// import test from "../../data/pro.json"
 import pro from "../../data/pro.json"
 
 
@@ -22,7 +18,12 @@ const ProdutoDetalhes: React.FC<Props> = ({ params }) => {
 
   const produto = pro?.find(item => item.id.toString() === id);
 
-  if (!produto) return <div>Produto não encontrado</div>;
+  if (!produto) 
+    return (
+      <div>
+        <h1>Produto não encontrado :(</h1>
+      </div>
+    )
 
   return (
     <div>
@@ -33,27 +34,5 @@ const ProdutoDetalhes: React.FC<Props> = ({ params }) => {
     </div>
   );
 };
-
-// export const getStaticPaths: GetStaticPaths = async () => {
-//   const paths = test.map(produto => ({
-//     params: { id: produto.id.toString() }
-//   }));
-
-//   return {
-//     paths,
-//     fallback: false
-//   };
-// };
-
-// export const getStaticProps: GetStaticProps = async (context) => {
-//   const id = context.params?.id as string;
-//   const produto = test.find(p => p.id.toString() === id) || null;
-
-//   return {
-//     props: {
-//       produto
-//     }
-//   };
-// };
 
 export default ProdutoDetalhes;
