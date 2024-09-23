@@ -4,6 +4,7 @@ import Header from "@/app/components/Header";
 
 import { produc } from "../../types/prod"
 import pro from "../../data/pro.json"
+import { Main } from "../styles";
 
 
 interface Props {
@@ -26,12 +27,15 @@ const ProdutoDetalhes: React.FC<Props> = ({ params }) => {
     )
 
   return (
-    <div>
-      <h1>{produto.name}</h1>
-      <h1>{produto.price}</h1>
-      <h1>{produto.id}</h1>
-      <h1>{produto.type}</h1>
-    </div>
+    <>
+      <Header />
+      <Main>
+        <h1>{produto.name}</h1>
+        <h1>{produto.price}</h1>
+        <h1>{produto.id}</h1>
+        <h1>{produto.type}</h1>
+      </Main>
+    </>
   );
 };
 
