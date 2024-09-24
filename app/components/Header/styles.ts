@@ -180,5 +180,6 @@ export const A = styled.div `
     display: flex;
     justify-content: center;
     color: #7910e8;
+    background: var(--back);
   }
 `
