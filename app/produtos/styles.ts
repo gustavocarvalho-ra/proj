@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Main = styled.div `
   width: 100vw;
-  height: 77vh;
+  height: 76vh;
   margin-top: 3em;
 
   .deta {
