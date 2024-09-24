@@ -3,8 +3,8 @@ import styled from "styled-components";
 export const Main = styled.div `
   width: 100vw;
   height: 76vh;
-  margin-top: 3em;
-
+  padding-top: 3em;
+  background: var(--back);
   .deta {
 
 
@@ -22,7 +22,7 @@ export const Container = styled.div `
   padding-top: 2em;
   width: 100%;
   display: flex;
-  background:  #e0e1ff;
+  background:  var(--back);
 
   a {
     text-decoration: none;
