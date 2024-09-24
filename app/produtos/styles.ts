@@ -24,6 +24,15 @@ export const Container = styled.div `
   display: flex;
   background:  #e0e1ff;
 
+  a {
+    text-decoration: none;
+
+    &:visited {
+      text-decoration: none;
+      color: #0000EE;
+    }
+  }
+
   .ti {
     margin: 1em 0 0 4.5em;
     font-size: 24px;
