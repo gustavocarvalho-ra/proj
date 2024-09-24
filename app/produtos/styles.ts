@@ -5,7 +5,13 @@ export const Main = styled.div `
   height: 76vh;
   padding-top: 3em;
   background: var(--back);
+  display: flex;
+  justify-content: center;
+
   .deta {
+    width: 80%;
+    display: flex;
+    gap: 2em;
 
 
     img {
